@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project default="xar" name="rconsole">
+<project default="xar" name="exist-stanford-ner">
+    <property file="local.build.properties"/>
     <property file="build.properties"/>
     <property name="project.version" value="0.1"/>
     <property name="project.name" value="stanford-ner"/>
